@@ -1,0 +1,2 @@
+class CartValidationError(Exception):
+    pass
